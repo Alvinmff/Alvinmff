@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Muhammad+Alvino+Firmansyah;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
 <!-- <p align="center">
@@ -33,6 +33,26 @@
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2> 
+
+<h2 id="present_status"> My purpose </h2>
+
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+⚡ Anti-cyber surveillance  
+⚡ Anti-cyber censorship  
+⚡ Internet activism  
+⚡ Internet vigilantism  
+
+`My Goal:` Journey to Great Penetration Tester 🌐.
+
+---
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🫵🏻;IM+Mr.Alvin;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br>
 
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
@@ -115,26 +135,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 
 <!-- I'm **[Mr.Alvin](https://wa.me/6285648592920?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
 **Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US. -->
-
-<h2 id="present_status"> My purpose </h2>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-⚡ Anti-cyber surveillance  
-⚡ Anti-cyber censorship  
-⚡ Internet activism  
-⚡ Internet vigilantism  
-
-`My Goal:` Journey to Great Penetration Tester 🌐.
-
----
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🫵🏻;IM+Mr.Alvin;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<br>
 
 ### 📊 &nbsp;GitHub Analytics 
 
