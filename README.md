@@ -10,11 +10,11 @@
 
 
 <h2 align="left">
-  Helo World
+  Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2> 
 
-I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
+I'm **[Mr.Alvin](https://wa.me/6285648592920?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
 **Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
 
 
@@ -27,7 +27,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 - i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
 - **I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
+- I’m currently learning **Everything** 
 - Reach me out at **alvinmff21@gmail.com**
 
 </details>
