@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Mr.X+a+Blackhat+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Mr.X+a+Whitehat+Hacker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,25 +10,25 @@
 
 
 <h2 align="left">
-  Helo Ker
+  Helo World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Blackhat Hacker** or a **Cyber Security**. <br>
+I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
 **Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Mr.X
+- **Name**: Muhammad Alvino Firmansyah
 - **From**: Indonesian
-- **Blackhat Hacker** | **Cyber Security** | **Bug Hunter**|**Web Developer**
-- i have experience in cracking,web development,hacking,bug Hunting,forensics,Social engineering,spy agent.
+- **WHitehat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
+- i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
 - **I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **whomrx666@gmail.com**
+- Reach me out at **alvinmff21@gmail.com**
 
 </details>
 <br>
@@ -58,12 +58,12 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 ### 📊 &nbsp;GitHub Analytics 
 
 <p align="center">
-<a href="https://github.com/Whomrx666">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia"/>
+<a href="https://github.com/Alvinmff">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alvinmff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alvinmff&layout=compact&langs_count=8&theme=algolia"/>
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvinmff&theme=algolia"/>
   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whomrx666&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvinmff&theme=react-dark&hide_border=true" />
 </a>
 </p>
 <br>
