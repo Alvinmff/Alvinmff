@@ -18,7 +18,7 @@
   <a href="https://alvinportofolio.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="mailto:alvinofirmansyahjob@gmail.com">
+  <a href="mailto:alvinmff21@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/Alvinmff">
@@ -65,7 +65,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 - **From**: Indonesian
 - **WHitehat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
 - i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
-- **I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **Everything** 
 - Reach me out at **alvinmff21@gmail.com**
@@ -171,7 +170,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 <p align="center"><a href=""><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
-
 
 
 
