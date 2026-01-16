@@ -6,12 +6,12 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<!-- <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf"> -->
 
 
 <h2 align="left">
   Helo World
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2> 
 
 I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
