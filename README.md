@@ -5,43 +5,55 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png" alt="Your Image Badge" />
-</p>
+</p> -->
 
 
 <p align="center">
-  <em><strong>Web • API • Network & Cloud Security  • AI </strong></em>
+  <em><strong>Front-End Web Developer • Penetration Tester • Network & Cloud Security • AI </strong></em>
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
+  <a href="https://alvinportofolio.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="https://alhamrizvi.wordpress.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
-  </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="mailto:alvinofirmansyahjob@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi">
+  <a href="https://www.linkedin.com/in/Alvinmff">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/Alhamrizvii">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+  <a href="https://instagram.com/alvinnmff">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
 
-
+<h2 align="left">
+  Hello World
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2> 
 
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
-- 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
-- 🏆 Top **#6 National Rank** on TryHackMe
-- ⚔️ Strong focus on exploitation, reconnaissance & automation
+<details>
+  <summary>More about me</summary>
 
+- **Name**: Muhammad Alvino Firmansyah
+- **From**: Indonesian
+- **WHitehat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
+- i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
+- **I am a hacker**
+- Improving knowledge in **Website Vulnerabilities**
+- I’m currently learning **Everything** 
+- Reach me out at **alvinmff21@gmail.com**
+
+</details>
+<br>
+
+---
 
 ## 🛠️ Core Expertise
 ### 🔴 Offensive Security
@@ -101,32 +113,8 @@ Offensive Security Researcher & Penetration Tester specializing in
 
 <!-- <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf"> -->
 
-
-<h2 align="left">
-  Hello World
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2> 
-
-I'm **[Mr.Alvin](https://wa.me/6285648592920?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
-**Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
-
-
-<details>
-  <summary>More about me</summary>
-
-- **Name**: Muhammad Alvino Firmansyah
-- **From**: Indonesian
-- **WHitehat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
-- i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
-- **I am a hacker**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **Everything** 
-- Reach me out at **alvinmff21@gmail.com**
-
-</details>
-<br>
-
----
+<!-- I'm **[Mr.Alvin](https://wa.me/6285648592920?text=Helo%20My%20lord%20Mr.X)**, I am **Whitehat Hacker** or a **Cyber Security**. <br>
+**Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US. -->
 
 <h2 id="present_status"> My purpose </h2>
 
@@ -137,7 +125,7 @@ I'm **[Mr.Alvin](https://wa.me/6285648592920?text=Helo%20My%20lord%20Mr.X)**, I 
 ⚡ Internet activism  
 ⚡ Internet vigilantism  
 
-`My Goal:` Journey to Great Whitehat Hacker 🌐.
+`My Goal:` Journey to Great Penetration Tester 🌐.
 
 ---
 
