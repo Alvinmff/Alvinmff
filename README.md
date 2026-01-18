@@ -138,7 +138,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 ![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Muhammad+Alvino+Firmansyah" alt="Typing SVG" />
   </a>
