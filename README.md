@@ -34,7 +34,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2> 
 
-<h2 id="present_status"> My purpose </h2>
+ <!-- <h2 id="present_status"> My purpose </h2> -->
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
